@@ -1,4 +1,4 @@
-# Design and Implementation of Boost Converter with High Step Up Ratio
+# Design and Implementation of DC- DC Boost Converter with High Step Up Ratio
 
 ## Project Overview
 This repository contains the simulation models and documentation for a high step-up DC-DC converter designed for renewable energy systems. [cite_start]Conventional boost converters suffer from severe conduction losses and voltage stress at extreme duty ratios[cite: 52]. [cite_start]To mitigate this, this project integrates a coupled inductor and an auxiliary active-clamp resonant circuit to mathematically guarantee Zero Voltage Switching (ZVS) for the main switch and Zero Current Switching (ZCS) for the auxiliary switch[cite: 53, 54].
